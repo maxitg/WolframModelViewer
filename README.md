@@ -3,6 +3,8 @@
 This repository is a Unity app which allows one to view graphs corresponding to states of the
 [Wolfram Model](https://www.wolframphysics.org).
 
+![App preview](READMEImages/WolframModelViewer.png)
+
 It's currently in the early stages of development.
 The initial version here was developed by a Wolfram engineer (not me).
 We would like to make further progress on it, but we don't quite have the resources to do it ourselves, so we are 
